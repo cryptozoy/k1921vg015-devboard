@@ -1489,6 +1489,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/lib/DLW31SN102SQ2L.step"
+			(offset
+				(xyz 0 0 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -13407,7 +13418,7 @@
 			(uuid "face52d3-21b2-44aa-8f5d-9f7c378fc790")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Fuse.3dshapes/Fuse_1812_4532Metric.wrl"
+		(model "${KIPRJMOD}/lib/miniSMDC150F-miniSMDC-Series-Resettable-PolySwitch-PPTC-1812.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13415,7 +13426,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
