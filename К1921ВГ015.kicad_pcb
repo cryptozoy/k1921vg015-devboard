@@ -6222,7 +6222,7 @@
 			(uuid "d479444b-73a5-4f69-9e61-f83f54ddda4b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
+		(model "${KIPRJMOD}/lib/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10186,7 +10186,7 @@
 			(uuid "1b020b91-b899-4da2-a0cb-bd4a9d1ce593")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
+		(model "${KIPRJMOD}/lib/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16428,7 +16428,7 @@
 			(uuid "e075904a-d991-4a27-9bf7-d17b146691ba")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_GCT_DCJ200-10-A_Horizontal.wrl"
+		(model "${KIPRJMOD}/lib/BarrelJack_GCT_DCJ200-10-A_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16436,7 +16436,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
