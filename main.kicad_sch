@@ -9776,7 +9776,7 @@
 		(dnp no)
 		(uuid "429281e1-babd-4627-ad3a-2abd18124adb")
 		(property "Reference" "К1921ВГ015-1"
-			(at 126.238 41.91 0)
+			(at 123.952 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9802,7 +9802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://niiet.ru/wp-content/uploads/2025/02/%D0%A0%D0%9F-%D0%9A1921%D0%92%D0%93015_250219.pdf"
+		(property "Datasheet" "https://gitflic.ru/project/niiet/niiet_riscv_sdk/file?file=doc%2F%D0%9A1921VG015"
 			(at 135.636 99.568 90)
 			(effects
 				(font
